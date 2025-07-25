@@ -1,8 +1,4 @@
-# OpenFreeMap + @indoorequal/vue-maplibre-gl Example
+# Vue weather radar map
 
 Built with [@indoorequal/vue-maplibre-gl](https://indoorequal.github.io/vue-maplibre-gl/)
-
-```sh
-pnpm install
-pnpm dev
-```
+Using the Environment Canada radar tile service
